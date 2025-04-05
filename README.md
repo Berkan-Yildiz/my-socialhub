@@ -38,4 +38,4 @@ Ayarlar Sayfası
 ![Ayarlar Sayfası](images/settings2.png)
 ![Ayarlar Sayfası](images/settings3.png)
 
-# my-socialhub
+
